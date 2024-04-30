@@ -1,0 +1,2 @@
+[Wed Apr 17 11:20:38.400905 2024] [access_compat:error] [pid 1522] [client 127.0.0.1:43438] AH01797: client denied by server configuration: /var/www/wordpod.com/wp-content/uploads/woocommerce_uploads/
+[Fri Apr 19 09:56:01.897875 2024] [access_compat:error] [pid 6185] [client 127.0.0.1:53584] AH01797: client denied by server configuration: /var/www/wordpod.com/wp-content/uploads/woocommerce_uploads/

@@ -1,0 +1,673 @@
+[19-Mar-2024 05:42:28 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[19-Mar-2024 05:42:28 UTC] PHP Notice:  Undefined index: field1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[19-Mar-2024 05:42:28 UTC] PHP Notice:  Undefined index: field2 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 353
+[19-Mar-2024 05:42:29 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 08:41:59 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[20-Mar-2024 08:41:59 UTC] PHP Notice:  Undefined index: field1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[20-Mar-2024 08:41:59 UTC] PHP Notice:  Undefined index: field2 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 353
+[20-Mar-2024 08:41:59 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 08:50:17 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[20-Mar-2024 08:50:17 UTC] PHP Notice:  Undefined index: field1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[20-Mar-2024 08:50:17 UTC] PHP Notice:  Undefined index: field2 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 353
+[20-Mar-2024 08:50:18 UTC] data sent to podio
+[20-Mar-2024 08:50:18 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:08:46 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[20-Mar-2024 09:08:46 UTC] PHP Notice:  Undefined index: field1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[20-Mar-2024 09:08:47 UTC] data sent to podio
+[20-Mar-2024 09:08:47 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:09:13 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[20-Mar-2024 09:09:13 UTC] PHP Notice:  Undefined index: field1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[20-Mar-2024 09:09:14 UTC] data sent to podio
+[20-Mar-2024 09:09:14 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:17:50 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 335
+[20-Mar-2024 09:17:50 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 345
+[20-Mar-2024 09:17:51 UTC] data sent to podio
+[20-Mar-2024 09:17:51 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:18:41 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 332
+[20-Mar-2024 09:18:41 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[20-Mar-2024 09:18:41 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 346
+[20-Mar-2024 09:18:41 UTC] data sent to podio
+[20-Mar-2024 09:18:41 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:19:37 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[20-Mar-2024 09:19:37 UTC] 
+[20-Mar-2024 09:19:37 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[20-Mar-2024 09:19:38 UTC] data sent to podio
+[20-Mar-2024 09:19:38 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:20:29 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[20-Mar-2024 09:20:29 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[20-Mar-2024 09:20:30 UTC] data sent to podio
+[20-Mar-2024 09:20:30 UTC] Podio API Error: HTTP Status Code 400
+[20-Mar-2024 09:22:59 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[20-Mar-2024 09:22:59 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 346
+[20-Mar-2024 09:23:00 UTC] data sent to podio
+[20-Mar-2024 09:23:00 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 05:12:52 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[22-Mar-2024 05:12:52 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 346
+[22-Mar-2024 05:12:53 UTC] data sent to podio
+[22-Mar-2024 05:12:53 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:05:38 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 336
+[22-Mar-2024 09:05:38 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 346
+[22-Mar-2024 09:05:38 UTC] data sent to podio
+[22-Mar-2024 09:05:38 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:07:14 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 337
+[22-Mar-2024 09:07:14 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[22-Mar-2024 09:07:15 UTC] data sent to podio
+[22-Mar-2024 09:07:15 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:14:33 UTC] Entry Data: Array
+(
+    [id] => 15
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:14:33
+    [date_updated] => 2024-03-22 09:14:33
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [6.2] => 
+    [6.3] => Amal
+    [6.4] => 
+    [6.6] => 
+    [6.8] => 
+)
+
+[22-Mar-2024 09:14:34 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 337
+[22-Mar-2024 09:14:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[22-Mar-2024 09:14:34 UTC] data sent to podio
+[22-Mar-2024 09:14:34 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:16:19 UTC] Entry Data: Array
+(
+    [id] => 16
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:16:19
+    [date_updated] => 2024-03-22 09:16:19
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [7] => namr
+)
+
+[22-Mar-2024 09:16:20 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 337
+[22-Mar-2024 09:16:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[22-Mar-2024 09:16:20 UTC] data sent to podio
+[22-Mar-2024 09:16:20 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:16:49 UTC] Entry Data: Array
+(
+    [id] => 17
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:16:49
+    [date_updated] => 2024-03-22 09:16:49
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [7] => ggg
+)
+
+[22-Mar-2024 09:16:49 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 337
+[22-Mar-2024 09:16:49 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 347
+[22-Mar-2024 09:16:50 UTC] data sent to podio
+[22-Mar-2024 09:16:50 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:17:29 UTC] Entry Data: Array
+(
+    [id] => 18
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:17:29
+    [date_updated] => 2024-03-22 09:17:29
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [7] => ffff
+)
+
+[22-Mar-2024 09:17:29 UTC] Form Fields: Array
+(
+    [0] => GF_Field_Text Object
+        (
+            [type] => text
+            [_is_entry_detail:GF_Field:private] => 
+            [_context_properties:GF_Field:private] => Array
+                (
+                    [use_admin_label] => 
+                )
+
+            [_merge_tag_modifiers:GF_Field:private] => Array
+                (
+                )
+
+            [_supports_state_validation:protected] => 
+            [id] => 7
+            [formId] => 1
+            [label] => Name
+            [adminLabel] => 
+            [isRequired] => 
+            [size] => large
+            [errorMessage] => 
+            [visibility] => visible
+            [inputs] => 
+            [description] => 
+            [allowsPrepopulate] => 
+            [inputMask] => 
+            [inputMaskValue] => 
+            [inputMaskIsCustom] => 
+            [maxLength] => 
+            [inputType] => text
+            [labelPlacement] => 
+            [descriptionPlacement] => 
+            [subLabelPlacement] => 
+            [placeholder] => 
+            [cssClass] => 
+            [inputName] => 
+            [noDuplicates] => 
+            [defaultValue] => 
+            [enableAutocomplete] => 
+            [autocompleteAttribute] => 
+            [choices] => 
+            [conditionalLogic] => 
+            [productField] => 
+            [layoutGridColumnSpan] => 
+            [enablePasswordInput] => 
+            [enableEnhancedUI] => 0
+            [layoutGroupId] => a549ead2
+            [multipleFiles] => 
+            [maxFiles] => 
+            [calculationFormula] => 
+            [calculationRounding] => 
+            [enableCalculation] => 
+            [disableQuantity] => 
+            [displayAllCategories] => 
+            [useRichTextEditor] => 
+            [errors] => Array
+                (
+                )
+
+            [pageNumber] => 1
+            [fields] => 
+            [failed_validation] => 
+            [validation_message] => 
+            [is_field_hidden] => 
+            [enableCopyValuesOption] => 
+            [enablePrice] => 
+            [displayOnly] => 
+            [form_id] => 
+        )
+
+)
+
+[22-Mar-2024 09:17:30 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 339
+[22-Mar-2024 09:17:30 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 349
+[22-Mar-2024 09:17:30 UTC] data sent to podio
+[22-Mar-2024 09:17:30 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:20:25 UTC] Entry Data: Array
+(
+    [id] => 19
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:20:25
+    [date_updated] => 2024-03-22 09:20:25
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [7] => tttttt
+)
+
+[22-Mar-2024 09:20:26 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 339
+[22-Mar-2024 09:20:26 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 349
+[22-Mar-2024 09:20:27 UTC] data sent to podio
+[22-Mar-2024 09:20:27 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:21:55 UTC] Entry Data: Array
+(
+    [id] => 20
+    [status] => active
+    [form_id] => 1
+    [ip] => 127.0.0.1
+    [source_url] => http://wordpod.com/
+    [currency] => USD
+    [post_id] => 
+    [date_created] => 2024-03-22 09:21:55
+    [date_updated] => 2024-03-22 09:21:55
+    [is_starred] => 0
+    [is_read] => 0
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    [payment_status] => 
+    [payment_date] => 
+    [payment_amount] => 
+    [payment_method] => 
+    [transaction_id] => 
+    [is_fulfilled] => 
+    [created_by] => 1
+    [transaction_type] => 
+    [7] => ttttttttttt
+)
+
+[22-Mar-2024 09:21:56 UTC] PHP Notice:  Undefined index: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 340
+[22-Mar-2024 09:21:56 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 350
+[22-Mar-2024 09:21:56 UTC] data sent to podio
+[22-Mar-2024 09:21:56 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:27:00 UTC] Form Data: Array
+(
+    [7] => test
+)
+
+[22-Mar-2024 09:27:01 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:27:01 UTC] Access Token not found in response body
+[22-Mar-2024 09:27:01 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 357
+[22-Mar-2024 09:27:01 UTC] Podio Item Data: Array
+(
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [external_id] => title
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[22-Mar-2024 09:27:01 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 369
+[22-Mar-2024 09:27:02 UTC] Podio API Response Code: 400
+[22-Mar-2024 09:27:02 UTC] Podio API Response Body: {"error":"Invalid authorization header","error_detail":null,"error_description":"Invalid authorization header","error_parameters":{},"error_propagate":false,"request":{"url":"http://api.podio.com/item/app/29450853/","method":"POST","query_string":""}}
+[22-Mar-2024 09:27:02 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:29:19 UTC] Form Data: Array
+(
+    [7] => ttttt
+)
+
+[22-Mar-2024 09:29:20 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:29:20 UTC] Access Token not found in response body
+[22-Mar-2024 09:29:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 357
+[22-Mar-2024 09:29:20 UTC] Podio Item Data: Array
+(
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [external_id] => title
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[22-Mar-2024 09:29:20 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 369
+[22-Mar-2024 09:29:21 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 375
+[22-Mar-2024 09:29:21 UTC] Access Token Format: NULL
+[22-Mar-2024 09:29:21 UTC] Podio API Response Code: 400
+[22-Mar-2024 09:29:21 UTC] Podio API Response Body: {"error":"Invalid authorization header","error_detail":null,"error_description":"Invalid authorization header","error_parameters":{},"error_propagate":false,"request":{"url":"http://api.podio.com/item/app/29450853/","method":"POST","query_string":""}}
+[22-Mar-2024 09:29:21 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:32:45 UTC] Form Data: Array
+(
+    [7] => iiiiiiiiiiii
+)
+
+[22-Mar-2024 09:32:46 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:32:46 UTC] Access Token Error: invalid_value
+[22-Mar-2024 09:32:46 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:32:46 UTC] Access Token not found in response body
+[22-Mar-2024 09:32:46 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 369
+[22-Mar-2024 09:32:46 UTC] Podio Item Data: Array
+(
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [external_id] => title
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[22-Mar-2024 09:32:46 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 381
+[22-Mar-2024 09:32:47 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 387
+[22-Mar-2024 09:32:47 UTC] Access Token Format: NULL
+[22-Mar-2024 09:32:47 UTC] Podio API Response Code: 400
+[22-Mar-2024 09:32:47 UTC] Podio API Response Body: {"error":"Invalid authorization header","error_detail":null,"error_description":"Invalid authorization header","error_parameters":{},"error_propagate":false,"request":{"url":"http://api.podio.com/item/app/29450853/","method":"POST","query_string":""}}
+[22-Mar-2024 09:32:47 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:35:48 UTC] Form Data: Array
+(
+    [7] => tt
+)
+
+[22-Mar-2024 09:35:49 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:35:49 UTC] Access Token Error: invalid_value
+[22-Mar-2024 09:35:49 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:35:49 UTC] Access Token not found in response body
+[22-Mar-2024 09:35:49 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 369
+[22-Mar-2024 09:35:49 UTC] Podio Item Data: Array
+(
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [external_id] => title
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[22-Mar-2024 09:35:49 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 381
+[22-Mar-2024 09:35:50 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 387
+[22-Mar-2024 09:35:50 UTC] Access Token Format: NULL
+[22-Mar-2024 09:35:50 UTC] Podio API Response Code: 400
+[22-Mar-2024 09:35:50 UTC] Podio API Response Body: {"error":"Invalid authorization header","error_detail":null,"error_description":"Invalid authorization header","error_parameters":{},"error_propagate":false,"request":{"url":"http://api.podio.com/item/app/29450853/","method":"POST","query_string":""}}
+[22-Mar-2024 09:35:50 UTC] Podio API Error: HTTP Status Code 400
+[22-Mar-2024 09:36:52 UTC] Form Data: Array
+(
+    [7] => bbb
+)
+
+[22-Mar-2024 09:36:53 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:36:53 UTC] Access Token Error: invalid_value
+[22-Mar-2024 09:36:53 UTC] Access Token Response Body: Array
+(
+    [error] => invalid_value
+    [error_detail] => 
+    [error_description] => Invalid value "wordpod-kihm8p" (string): must be integer
+    [error_parameters] => Array
+        (
+        )
+
+    [error_propagate] => 
+    [request] => Array
+        (
+            [url] => http://podio.com/oauth/token
+            [method] => POST
+            [query_string] => 
+        )
+
+)
+
+[22-Mar-2024 09:36:53 UTC] Access Token not found in response body
+[22-Mar-2024 09:36:53 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 369
+[22-Mar-2024 09:36:53 UTC] Podio Item Data: Array
+(
+    [fields] => Array
+        (
+            [0] => Array
+                (
+                    [external_id] => title
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[22-Mar-2024 09:36:53 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 381
+[22-Mar-2024 09:36:54 UTC] PHP Notice:  Undefined variable: access_token in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 387
+[22-Mar-2024 09:36:54 UTC] Access Token Format: 
+[22-Mar-2024 09:36:54 UTC] Podio API Response Code: 401
+[22-Mar-2024 09:36:54 UTC] Podio API Response Body: {"error":"unauthorized","error_detail":null,"error_description":"invalid_request","error_parameters":{},"error_propagate":false,"request":{"url":"http://api.podio.com/item/app/29450853/","method":"POST","query_string":""}}
+[22-Mar-2024 09:36:54 UTC] Podio API Error: HTTP Status Code 401
+[22-Mar-2024 09:39:06 UTC] Access Token not found in response body
+[22-Mar-2024 09:39:58 UTC] Access Token not found in response body
+[22-Mar-2024 09:43:15 UTC] PHP Notice:  Array to string conversion in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 328
+[22-Mar-2024 09:43:15 UTC] Token Endpoint Response Body: Array
+[22-Mar-2024 09:43:15 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 331
+[22-Mar-2024 09:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_error_message() on array in /var/www/wordpod.com/wp-content/themes/vertice/functions.php:353
+Stack trace:
+#0 /var/www/wordpod.com/wp-includes/class-wp-hook.php(326): submit_to_podio()
+#1 /var/www/wordpod.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/wordpod.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpod.com/wp-content/plugins/gravityforms/gravityforms.php(7073): do_action()
+#4 /var/www/wordpod.com/wp-content/plugins/gravityforms/form_display.php(209): gf_do_action()
+#5 /var/www/wordpod.com/wp-content/plugins/gravityforms/gravityforms.php(869): GFFormDisplay::process_form()
+#6 /var/www/wordpod.com/wp-includes/class-wp-hook.php(324): GFForms::maybe_process_form()
+#7 /var/www/wordpod.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /var/www/wordpod.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /var/www/wordpod.com/wp-includes/class-wp.php(830): do_action_ref_array()
+#10 /var/www/w in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 353
+[22-Mar-2024 09:44:56 UTC] PHP Notice:  Array to string conversion in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 328
+[22-Mar-2024 09:44:56 UTC] Token Endpoint Response Body: Array
+[22-Mar-2024 09:44:56 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 331
+[22-Mar-2024 09:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_error_message() on array in /var/www/wordpod.com/wp-content/themes/vertice/functions.php:353
+Stack trace:
+#0 /var/www/wordpod.com/wp-includes/class-wp-hook.php(326): submit_to_podio()
+#1 /var/www/wordpod.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/wordpod.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpod.com/wp-content/plugins/gravityforms/gravityforms.php(7073): do_action()
+#4 /var/www/wordpod.com/wp-content/plugins/gravityforms/form_display.php(209): gf_do_action()
+#5 /var/www/wordpod.com/wp-content/plugins/gravityforms/gravityforms.php(869): GFFormDisplay::process_form()
+#6 /var/www/wordpod.com/wp-includes/class-wp-hook.php(324): GFForms::maybe_process_form()
+#7 /var/www/wordpod.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /var/www/wordpod.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#9 /var/www/wordpod.com/wp-includes/class-wp.php(830): do_action_ref_array()
+#10 /var/www/w in /var/www/wordpod.com/wp-content/themes/vertice/functions.php on line 353
+[22-Mar-2024 09:46:03 UTC] Token Endpoint Response Body: {"error":"invalid_value","error_detail":null,"error_description":"Invalid value \"wordpod-kihm8p\" (string): must be integer","error_parameters":{},"error_propagate":false,"request":{"url":"http://podio.com/oauth/token","method":"POST","query_string":""}}
+[22-Mar-2024 09:46:03 UTC] Access Token not found in response body
+[22-Mar-2024 09:46:19 UTC] Token Endpoint Response Body: {"error":"invalid_value","error_detail":null,"error_description":"Invalid value \"wordpod-kihm8p\" (string): must be integer","error_parameters":{},"error_propagate":false,"request":{"url":"http://podio.com/oauth/token","method":"POST","query_string":""}}
+[22-Mar-2024 09:46:19 UTC] Access Token not found in response body
