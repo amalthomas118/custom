@@ -1157,6 +1157,10 @@ msgstr ""
 msgid "Preloader Type"
 msgstr ""
 
+#: customizer.php:2403
+msgid "Preloader Background Image"
+msgstr ""
+
 #: customizer.php:747
 msgid "Background Color for Preloader 1"
 msgstr ""

@@ -36,7 +36,7 @@ get_header(); ?>
                 <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/slider.png" alt="" />
               <?php } ?>
               <div class="carousel-caption">
-                <div class="inner_carousel text-start">
+                <div class="inner_carousel">
                   <?php if( get_theme_mod('the_fashion_woocommerce_slider_small_title') != '' ){ ?>
                     <div class="mb-1">
                       <span class="slider-badge mb-1"><?php echo esc_html(get_theme_mod('the_fashion_woocommerce_slider_small_title',''));?></span>

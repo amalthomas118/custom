@@ -50,7 +50,9 @@
     <?php }?>
     <?php if (get_theme_mod('the_fashion_woocommerce_show_hide_copyright', true)) {?>
     <div class="copyright">
-    <p><?php the_fashion_woocommerce_credit();?><?php echo esc_html(get_theme_mod('the_fashion_woocommerce_footer_copy', __('By Themeshopy', 'the-fashion-woocommerce')));?></p>
+        <div class="container">
+            <p><?php the_fashion_woocommerce_credit();?><?php echo esc_html(get_theme_mod('the_fashion_woocommerce_footer_copy', __('By Themeshopy', 'the-fashion-woocommerce')));?></p>
+        </div>
     </div>
     <?php }?>
 </footer>

@@ -57,11 +57,11 @@
 		$the_fashion_woocommerce_custom_css .='}';
 	}else if($the_fashion_woocommerce_theme_lay == 'Center'){
 		$the_fashion_woocommerce_custom_css .='#slider .carousel-caption, #slider .inner_carousel, #slider .inner_carousel h1, #slider .inner_carousel p, #slider .readbutton{';
-			$the_fashion_woocommerce_custom_css .='text-align:center !important; left:25%; right:25%;';
+			$the_fashion_woocommerce_custom_css .='text-align:center; left:15% !important; right:15% !important;';
 		$the_fashion_woocommerce_custom_css .='}';
 	}else if($the_fashion_woocommerce_theme_lay == 'Right'){
 		$the_fashion_woocommerce_custom_css .='#slider .carousel-caption, #slider .inner_carousel, #slider .inner_carousel h1, #slider .inner_carousel p, #slider .readbutton{';
-			$the_fashion_woocommerce_custom_css .='text-align:right !important; left:45%; right:15%;';
+			$the_fashion_woocommerce_custom_css .='text-align:right; left:10% !important; right:15% !important;';
 		$the_fashion_woocommerce_custom_css .='}';
 	}
 
@@ -302,6 +302,10 @@
 		$the_fashion_woocommerce_custom_css .='.copyright{';
 			$the_fashion_woocommerce_custom_css .='text-align: '.esc_attr($the_fashion_woocommerce_copyright_content_align).';';
 		$the_fashion_woocommerce_custom_css .='}';
+		$the_fashion_woocommerce_custom_css .='
+		@media screen and (max-width:575px) {
+			.copyright{';
+			$the_fashion_woocommerce_custom_css .='text-align: center;} }';
 	}
 
 	$the_fashion_woocommerce_footer_content_font_size = get_theme_mod('the_fashion_woocommerce_footer_content_font_size', 16);
@@ -338,7 +342,7 @@
 	$the_fashion_woocommerce_footer_widget_bg_image = get_theme_mod('the_fashion_woocommerce_footer_widget_bg_image');
 	if($the_fashion_woocommerce_footer_widget_bg_image != false){
 		$the_fashion_woocommerce_custom_css .='#footer{';
-			$the_fashion_woocommerce_custom_css .='background: url('.esc_attr($the_fashion_woocommerce_footer_widget_bg_image).');';
+			$the_fashion_woocommerce_custom_css .='background: url('.esc_attr($the_fashion_woocommerce_footer_widget_bg_image).'); background-size: cover;';
 		$the_fashion_woocommerce_custom_css .='}';
 	}
 
@@ -447,6 +451,14 @@
 	$the_fashion_woocommerce_custom_css .='.woocommerce span.onsale{';
 		$the_fashion_woocommerce_custom_css .='font-size: '.esc_attr($the_fashion_woocommerce_product_sale_font_size).'px;';
 	$the_fashion_woocommerce_custom_css .='}';
+
+	// preloader background image
+	$the_fashion_woocommerce_preloader_bg_image = get_theme_mod('the_fashion_woocommerce_preloader_bg_image');
+	if($the_fashion_woocommerce_preloader_bg_image != false){
+		$the_fashion_woocommerce_custom_css .='#loader-wrapper .loader-section, #loader-wrapper{';
+			$the_fashion_woocommerce_custom_css .='background: url('.esc_attr($the_fashion_woocommerce_preloader_bg_image).'); background-size: cover;';
+		$the_fashion_woocommerce_custom_css .='}';
+	}
 
 	// preloader background option 
 	$the_fashion_woocommerce_loader_background_color_first = get_theme_mod('the_fashion_woocommerce_loader_background_color_first');
@@ -610,19 +622,13 @@
 
 	// Submenu Color Option
 	$the_fashion_woocommerce_submenu_color_settings = get_theme_mod('the_fashion_woocommerce_submenu_color_settings');
-	$the_fashion_woocommerce_custom_css .='.primary-navigation ul.sub-menu li a {';
-	$the_fashion_woocommerce_custom_css .='color: '.esc_attr($the_fashion_woocommerce_submenu_color_settings).';';
-	$the_fashion_woocommerce_custom_css .='} ';
-
-	// Submenu Color Option
-	$the_fashion_woocommerce_submenu_color_settings = get_theme_mod('the_fashion_woocommerce_submenu_color_settings');
-	$the_fashion_woocommerce_custom_css .='.primary-navigation ul.sub-menu li a{';
+	$the_fashion_woocommerce_custom_css .='.primary-navigation ul.sub-menu li a, .primary-navigation ul.children li a {';
 	$the_fashion_woocommerce_custom_css .='color: '.esc_attr($the_fashion_woocommerce_submenu_color_settings).';';
 	$the_fashion_woocommerce_custom_css .='} ';
 
 	// Submenu Hover Color Option
 	$the_fashion_woocommerce_submenu_hover_color_settings = get_theme_mod('the_fashion_woocommerce_submenu_hover_color_settings');
-	$the_fashion_woocommerce_custom_css .='.primary-navigation ul.sub-menu li a:hover {';
+	$the_fashion_woocommerce_custom_css .='.primary-navigation ul.sub-menu li a:hover, .primary-navigation ul.children li a:hover {';
 	$the_fashion_woocommerce_custom_css .='color: '.esc_attr($the_fashion_woocommerce_submenu_hover_color_settings).';';
 	$the_fashion_woocommerce_custom_css .='} ';
 

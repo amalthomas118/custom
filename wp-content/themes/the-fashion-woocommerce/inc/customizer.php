@@ -2395,6 +2395,15 @@ function the_fashion_woocommerce_customize_register($wp_customize) {
 		),
 	));
 
+	$wp_customize->add_setting('the_fashion_woocommerce_preloader_bg_image',array(
+		'default'	=> '',
+		'sanitize_callback'	=> 'esc_url_raw',
+	));
+	$wp_customize->add_control( new WP_Customize_Image_Control($wp_customize,'the_fashion_woocommerce_preloader_bg_image',array(
+        'label' => __('Preloader Background Image','the-fashion-woocommerce'),
+        'section' => 'the_fashion_woocommerce_left_right'
+	)));
+
    	$wp_customize->add_setting( 'the_fashion_woocommerce_loader_background_color_first', array(
 	    'default' => '',
 	    'sanitize_callback' => 'sanitize_hex_color'

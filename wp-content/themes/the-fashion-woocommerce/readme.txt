@@ -4,7 +4,7 @@ Tags: wide-blocks, flexible-header, block-styles, block-patterns, left-sidebar, 
 Requires at least: 5.0
 Tested up to: 6.5
 Requires PHP: 7.2
-Stable tag: 0.2.4
+Stable tag: 0.2.5
 License: GPLv3.0 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -43,6 +43,15 @@ The Fashion Woocommerce is a stylish and versatile WordPress theme designed to e
 * Updated .pot file.
 * Resolved css error for scroll icon font size in footer text section.
 * Tested upto WP v6.5
+
+= 0.2.5 =
+* Added preloader background image option in layout settings.
+* Resolved css error for preloader.
+* Resolved css error for footer widget background image in footer text section.
+* Changed condition in copyright text alignment for responsive media.
+* Resolved css error for menu colors option.
+* Resolved css error for slider content alignment in responsive media.
+* Updated .pot file.
 
 == Resources ==
 
